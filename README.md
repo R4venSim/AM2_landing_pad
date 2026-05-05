@@ -6,3 +6,5 @@ There are 2 variants currently:
 
 1. FARP/Heliport - Acts like a FARP/heliport, you can spawn on it but it will clear the surrounding area of trees (DCS Limitation).
 2. Static object - this one is a structure and doesn't clear trees. You can still land and park on it you just have to do "take off from ground" in the Mission Editor.
+
+Please DO NOT share without my permission! 
